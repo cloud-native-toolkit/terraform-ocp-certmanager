@@ -1,8 +1,10 @@
-name: CertManager
+name: cert-manager-jetstack
 type: terraform
-description: Module to install CertManager
+description: Module to install JetStack Cert Manager
 tags:
-    - tools
+  - cert manager
+  - jetstack
+  - tools
 versions:
 - platforms:
     - ocp4
