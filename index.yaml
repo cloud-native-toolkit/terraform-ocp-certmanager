@@ -1,8 +1,10 @@
 id: github.com/cloud-native-toolkit/terraform-ocp-certmanager
-name: CertManager
+name: cert-manager-jetstack
 type: terraform
-description: Module to install CertManager
+description: Module to install JetStack Cert Manager
 tags:
+  - cert manager
+  - jetstack
   - tools
 versions:
   - platforms:
